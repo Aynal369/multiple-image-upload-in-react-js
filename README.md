@@ -2,7 +2,7 @@
   1. Add two useState. 1st (empty string) and 2nd [empty array]
   2. In input fields set onChange funtion
   3. Under onChange funtion add this code
-  ##### For Cloudinary
+  ### For Cloudinary
   ```
   const imgFiles = e.target.files;
     let imgArr = [];
@@ -26,7 +26,7 @@
         });
     }
   ```
-  ##### For Imgbb
+  ### For Imgbb
   ```
    const imgFiles = e.target.files;
     let imgArr = [];
